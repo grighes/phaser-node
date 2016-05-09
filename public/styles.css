@@ -1,0 +1,19 @@
+body {
+  background-color: #222;  
+}
+
+nav {
+  background-color: none;
+}
+
+.header {
+  background-position: center top;
+}
+
+.wrap-all {
+  margin-left: 15%;
+}
+
+.hiddenText {
+  font-family: Play;
+}
